@@ -2,7 +2,7 @@
 # EuroSeasonVoyage
 
 ## Project Overview
-**EuroSeasonTravel** is a Data Analysis and Machine Learning project that predicts the best European countries to visit based on the season of travel. Utilizing the [European Tour Destinations Dataset](https://www.kaggle.com/datasets/faizadani/european-tour-destinations-dataset) from Kaggle, the project uses a **Random Forest** model to suggest travel destinations based on seasonal factors. Additionally, data preprocessing and visualization techniques were employed to gain insights into seasonal travel trends across Europe.
+**EuroSeasonVoyage** is a Data Analysis and Machine Learning project that predicts the best European countries to visit based on the season of travel. Utilizing the [European Tour Destinations Dataset](https://www.kaggle.com/datasets/faizadani/european-tour-destinations-dataset) from Kaggle, the project uses a **Random Forest** model to suggest travel destinations based on seasonal factors. Additionally, data preprocessing and visualization techniques were employed to gain insights into seasonal travel trends across Europe.
 
 ## Table of Contents
 - [Project Overview](#project-overview)
